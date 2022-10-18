@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -21,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-ahapJmStZU)
 - Live Site URL: [Github Pages](https://okutewonah.github.io/fm-qr-code-component-challenge/)
 
 ## My process
